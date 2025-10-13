@@ -23,12 +23,10 @@
 
   <ul>
     <li>Gender: <img src="image/svg/icon/boy.svg" alt="Male"> Male</li>
-    <li>Favorites: ⚽ Football, 🏀 Basketball, 🎸 Guitar, ...</li>
+    <li>Favorites: ⚽ Football, 🎮 Gaming, 🎵 Music, 🎥 Movie</li>
     <li>Some games: 
       <img src="image/svg/gaming/valorant.svg" alt="Valorant"> Valorant, 
-      <img src="image/svg/gaming/counter-strike.svg" alt="CSGO"> CSGO, 
       <img src="image/svg/gaming/fifa.svg" alt="Fo4"> Fo4, 
-      <img src="image/svg/gaming/aov.svg" alt="AoV"> AoV, ...
     </li>
     <li>My skills:<br>
       <img src="image/svg/languages/javascript.svg" alt="JavaScript"> JavaScript, 
@@ -36,7 +34,6 @@
       <img src="image/svg/languages/mysql.svg" alt="MySQL"> MySQL, 
       <img src="image/svg/languages/sql.svg" alt="SQL"> SQL,
       <img src="image/svg/languages/python.svg" alt="Python"> Python, 
-      <img src="image/svg/languages/c.svg" alt="C++"> C++, 
       <img src="image/svg/languages/java.svg" alt="Java"> Java, 
       <img src="image/svg/languages/html.svg" alt="HTML5"> HTML5, 
       <img src="image/svg/languages/css.svg" alt="CSS"> CSS, 
@@ -46,7 +43,6 @@
       <img src="image/svg/languages/vue.svg" alt="Vue"> Vue, 
       <img src="image/svg/languages/react.svg" alt="React"> React, 
       <img src="image/svg/languages/ps.svg" alt="Adobe Photoshop"> Adobe Photoshop, 
-      <img src="image/svg/languages/git.svg" alt="Git"> Git, ...
     </li>
   </ul>
   <div style="display: inline-block;"></div>
