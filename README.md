@@ -98,24 +98,23 @@
   <div style="display: inline-block;"></div>
 
   <div align="center">
-    <img width="55%" src="https://lanyard.kyrie25.me/api/1408265571933618267?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&borderRadius=15px&animated=true&idleMessage=Damn,I%20missed%20you.%20💔" align="right" align="right">
+    <img src="https://lanyard.cnrad.dev/api/1408265571933618267?idleMessage=i%20luv%20her%20%E2%9D%A4%EF%B8%8F&theme=dark&showDisplayName=true&hideDiscrim=true" align="right" align="right" /></a>
   </div>
 
   <div align="left">
-    <a href="https://discord.com/users/1408265571933618267" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/azu-6699ff?style=for-the-badge&logo=discord&logoColor=white"></div>
-    </a>
     <a href="https://www.youtube.com/@AzuFPS?sub_confirmation=1" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/azu-ff3300?style=for-the-badge&logo=youtube&logoColor=white"></div>
+      <img width="20%" src="https://img.shields.io/badge/azu-ff3300?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    <a href="https://discord.com/users/1408265571933618267" target="_blank">
+      <img width="20%" src="https://img.shields.io/badge/azu-6699ff?style=for-the-badge&logo=discord&logoColor=white">
     </a>
     <br>
     <a href="https://github.com/azuisme" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/azu-000000?style=for-the-badge&logo=github&logoColor=white"></div>
+      <img width="20%" src="https://img.shields.io/badge/azu-000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <br>
-    <!-- <a href="https://kadcfps.000webhostapp.com/" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/azu-33cc33?style=for-the-badge&logo=biolink&logoColor=white"></div>
-    </a> -->
+    <a href="https://tracker.gg/valorant/profile/riot/Azu%23prx/overview?platform=pc&playlist=competitive&season=5adc33fa-4f30-2899-f131-6fba64c5dd3a" target="_blank">
+      <img width="20%" src="https://img.shields.io/badge/azu-e32f22?style=for-the-badge&logo=valorant&logoColor=white">
+    </a>
   </div>
 
   <div style="display: inline-block;"></div>
