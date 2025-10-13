@@ -18,7 +18,7 @@
   </div>
 
   <p>
-    I'm Kaizo, a 21 years old University student from Vietnam.
+    I'm Azu, a 21 years old University student from Vietnam.
   </p>
 
   <ul>
@@ -66,23 +66,23 @@
   </div>
 
   <div align="left">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadc03&theme=omni&hide=batchfile&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuisme&theme=omni&hide=batchfile&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     <div style="display: inline-block;"></div>
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=kadc03&theme=omni&show_icons=true&include_all_commits=true&count_private=true&hide_border=false">
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=azuisme&theme=omni&show_icons=true&include_all_commits=true&count_private=true&hide_border=false">
     <div style="display: inline-block;"></div>
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=kadc03&show_icons=true&hide_border=false&theme=omni">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=azuisme&show_icons=true&hide_border=false&theme=omni">
   </div>
 
   <div style="display: inline-block;"></div>
 
   <div align="center">
-    <img src="https://github-trophies.vercel.app/?username=kadc03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
+    <img src="https://github-trophies.vercel.app/?username=azuisme&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
   </div>
 
   <div style="display: inline-block;"></div>
 
   <!-- <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kadc03&theme=react-dark&bg_color=20232a&hide_border=false"> 
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=azuisme&theme=react-dark&bg_color=20232a&hide_border=false"> 
   </div> -->
 
   <div style="display: inline-block;"></div>
@@ -98,24 +98,24 @@
   <div style="display: inline-block;"></div>
 
   <div align="center">
-    <img width="55%" src="https://lanyard.kyrie25.me/api/882173065163849739?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&borderRadius=15px&animated=true&idleMessage=Damn,I%20missed%20you.%20💔" align="right" align="right">
+    <img width="55%" src="https://lanyard.kyrie25.me/api/1408265571933618267?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&borderRadius=15px&animated=true&idleMessage=Damn,I%20missed%20you.%20💔" align="right" align="right">
   </div>
 
   <div align="left">
-    <a href="https://discord.com/users/882173065163849739" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/kadc-6699ff?style=for-the-badge&logo=discord&logoColor=white"></div>
+    <a href="https://discord.com/users/1408265571933618267" target="_blank">
+      <img width="15%" src="https://img.shields.io/badge/azu-6699ff?style=for-the-badge&logo=discord&logoColor=white"></div>
     </a>
-    <a href="https://www.youtube.com/@kadcFPS?sub_confirmation=1" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/kadc-ff3300?style=for-the-badge&logo=youtube&logoColor=white"></div>
-    </a>
-    <br>
-    <a href="https://github.com/kadc03" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/kadc-000000?style=for-the-badge&logo=github&logoColor=white"></div>
+    <a href="https://www.youtube.com/@AzuFPS?sub_confirmation=1" target="_blank">
+      <img width="15%" src="https://img.shields.io/badge/azu-ff3300?style=for-the-badge&logo=youtube&logoColor=white"></div>
     </a>
     <br>
-    <a href="https://kadcfps.000webhostapp.com/" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/kadc-33cc33?style=for-the-badge&logo=biolink&logoColor=white"></div>
+    <a href="https://github.com/azuisme" target="_blank">
+      <img width="15%" src="https://img.shields.io/badge/azu-000000?style=for-the-badge&logo=github&logoColor=white"></div>
     </a>
+    <br>
+    <!-- <a href="https://kadcfps.000webhostapp.com/" target="_blank">
+      <img width="15%" src="https://img.shields.io/badge/azu-33cc33?style=for-the-badge&logo=biolink&logoColor=white"></div>
+    </a> -->
   </div>
 
   <div style="display: inline-block;"></div>
@@ -132,7 +132,7 @@
 
   <div align="center">
     <a href="https://count.getloli.com">
-      <img src="https://count.getloli.com/get/@KaizoVN?theme=asoul"/>
+      <img src="https://count.getloli.com/get/@azuisme?theme=asoul"/>
     </a>
   </div>
 </body>
