@@ -26,7 +26,7 @@
     <li>Favorites: ⚽ Football, 🎮 Gaming, 🎵 Music, 🎥 Movie</li>
     <li>Some games: 
       <img src="image/svg/gaming/valorant.svg" alt="Valorant"> Valorant, 
-      <img src="image/svg/gaming/fifa.svg" alt="Fo4"> Fo4, 
+      <img src="image/svg/gaming/fifa.svg" alt="Fo4"> Fo4
     </li>
     <li>My skills:<br>
       <img src="image/svg/languages/javascript.svg" alt="JavaScript"> JavaScript, 
