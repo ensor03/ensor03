@@ -42,7 +42,7 @@
       <img src="image/svg/languages/typescript.svg" alt="TypeScript"> TypeScript, 
       <img src="image/svg/languages/vue.svg" alt="Vue"> Vue, 
       <img src="image/svg/languages/react.svg" alt="React"> React, 
-      <img src="image/svg/languages/ps.svg" alt="Adobe Photoshop"> Adobe Photoshop, 
+      <img src="image/svg/languages/ps.svg" alt="Adobe Photoshop"> Adobe Photoshop
     </li>
   </ul>
   <div style="display: inline-block;"></div>
