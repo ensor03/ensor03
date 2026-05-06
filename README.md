@@ -1,6 +1,67 @@
-<head>
+<!-- <head>
   <link rel="stylesheet" href="css/index.css">
-</head>
+</head> -->
+
+<style>
+  .tag {
+  pointer-events: none;
+  border-radius: 2rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 600px;
+  height: 200px;
+}
+
+.tag2 {
+  pointer-events: none;
+  border-radius: 2rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 600px;
+  height: 300px;
+}
+
+
+.logo_main {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.left_main {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+.center_main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.right_main {
+  /* display: flex; */
+  align-items: right;
+  justify-content: right;
+}
+
+.logo_right {
+  width: 230px;
+  height: 430px;
+  border-radius: 0 20px 0 0;
+  align-items: right;
+  overflow: hidden;
+  
+}
+
+.block_main {
+  display: inline-block;
+}
+</style>
 
 <body>
   <img class="line" src="image/gif/line.gif">
