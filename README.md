@@ -11,7 +11,7 @@
     <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="250px" align="center;" src="image/panels/about_me.png">
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div><br>
 
   <div align="right;">
     <img style="border-radius: 50%;" width="400px" height="400px" src="image/panels/cat.png" align="right">
