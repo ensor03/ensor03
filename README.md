@@ -14,7 +14,7 @@
   <div style="display: inline-block;"></div>
 
   <div align="right;">
-    <img style="border-radius: 50%;" width="200px" height="200px" src="image/panels/cat.png" align="right">
+    <img style="border-radius: 50%;" width="400px" height="400px" src="image/panels/cat.png" align="right">
   </div>
 
   <p>
@@ -78,7 +78,7 @@
     <img style="border-radius: 0 20px 0 0; align-items: right; overflow: hidden;" width="35%" height="500px" align="right" src="image/panels/lambo.png">
   </div>
 
-  <br><div style="display: inline-block;"></div><br>
+  <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=urmine03&show_icons=true&hide_border=false&theme=omni">
@@ -114,7 +114,7 @@
     </a>
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://discord.com/users/882173065163849739" target="_blank">
@@ -122,7 +122,7 @@
     </a>
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://github.com/urmine03" target="_blank">
