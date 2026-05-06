@@ -11,7 +11,7 @@
     <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="250px" align="center" src="image/panels/about_me.png">
   </div>
 
-  <br><div style="display: inline-block;"></div><br>
+  <br><div style="display: inline-block;"></div>
 
   <div align="right">
     <img style="border-radius: 50%;" width="400px" height="400px" src="image/panels/cat.png" align="right">
@@ -72,7 +72,7 @@
     <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="350px" align="center" src="image/panels/my_stats.png">
   </div>
 
-  <br><div style="display: inline-block;"></div><br>
+  <br><div style="display: inline-block;"></div>
 
   <div style="justify-content: right; align-items: right;">
     <img style="border-radius: 0 20px 0 0; align-items: right; overflow: hidden;" width="35%" height="500px" align="right" src="image/panels/lambo.png">
