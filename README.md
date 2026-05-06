@@ -103,7 +103,7 @@
   <br><div style="display: inline-block;"></div>
 
   <div style="justify-content: right; align-items: right;">
-    <img width="400px" align="right" src="https://lanyard.cnrad.dev/api/882173065163849739?borderRadius=10px&theme=dark&idleMessage=i%20luv%20her%20%E2%9D%A4%EF%B8%8F&showDisplayName=true"/></a>
+    <img width="500px" align="right" src="https://lanyard.cnrad.dev/api/882173065163849739?borderRadius=10px&theme=dark&idleMessage=i%20luv%20her%20%E2%9D%A4%EF%B8%8F&showDisplayName=true"/></a>
   </div>
 
   <br><div style="display: inline-block;"></div>
