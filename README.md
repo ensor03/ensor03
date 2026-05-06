@@ -5,45 +5,62 @@
 <body>
   <img class="line" src="image/gif/line.gif">
 
-  <div style="display: inline-block;"></div>
+  <div class="block_main"></div>
 
-  <div align="center">
-    <img class="tag" src="image/panels/aboutme.png" width="500">
+  <div class="center_main">
+    <img class="tag" src="image/panels/about_me.png">
   </div>
 
-  <div style="display: inline-block;"></div>
+  <div class="block_main"></div>
 
-  <div align="center">
-    <img class="logo_main" src="image/panels/marin_v4.png" width="200" align="right">
+  <div class="right_main">
+    <img class="logo_main" src="image/panels/cat.png" align="right">
   </div>
 
   <p>
-    I'm Azu, a 21 years old University student from Vietnam.
+    👋 Hi, I'm a developer from Vietnam
   </p>
 
   <ul>
-    <li>Gender: <img src="image/svg/icon/boy.svg" alt="Male"> Male</li>
-    <li>Favorites: ⚽ Football, 🎮 Gaming, 🎵 Music, 🎥 Movie</li>
-    <li>Some games: 
-      <img src="image/svg/gaming/valorant.svg" alt="Valorant"> Valorant, 
+    <li>Gender: <img src="image/svg/icon/man.svg" alt="Male"> Male</li>
+    <li>Interests: ⚽ Football • 🎮 Gaming • 🎵 Music • 🎥 Movie</li>
+    <li>Games: 
+      <img src="image/svg/gaming/valorant.svg" alt="Valorant"> Valorant • 
       <img src="image/svg/gaming/fifa.svg" alt="Fo4"> Fo4
     </li>
-    <li>My skills:<br>
-      <img src="image/svg/languages/javascript.svg" alt="JavaScript"> JavaScript, 
-      <img src="image/svg/languages/node.svg" alt="NodeJS"> NodeJS, 
-      <img src="image/svg/languages/mysql.svg" alt="MySQL"> MySQL, 
-      <img src="image/svg/languages/sql.svg" alt="SQL"> SQL,
-      <img src="image/svg/languages/python.svg" alt="Python"> Python, 
-      <img src="image/svg/languages/java.svg" alt="Java"> Java, 
-      <img src="image/svg/languages/html.svg" alt="HTML5"> HTML5, 
-      <img src="image/svg/languages/css.svg" alt="CSS"> CSS, 
-      <img src="image/svg/languages/php.svg" alt="PHP"> PHP, 
-      <img src="image/svg/languages/mongo.svg" alt="MongoDB"> MongoDB, 
-      <img src="image/svg/languages/typescript.svg" alt="TypeScript"> TypeScript, 
-      <img src="image/svg/languages/vue.svg" alt="Vue"> Vue, 
-      <img src="image/svg/languages/react.svg" alt="React"> React, 
-      <img src="image/svg/languages/ps.svg" alt="Adobe Photoshop"> Adobe Photoshop
-    </li>
+    <li>💻 Tech Stack:<br>
+    <b>Languages:</b><br>
+      <img src="image/svg/languages/javascript.svg"> Javascript • 
+      <img src="image/svg/languages/typescript.svg"> Typescript • 
+      <img src="image/svg/languages/python.svg"> Python • 
+      <img src="image/svg/languages/php.svg"> php
+    <br><b>Frontend:</b><br>
+      <img src="image/svg/languages/html.svg"> HTML • 
+      <img src="image/svg/languages/css.svg"> CSS
+      <br><div class="block_main"></div>
+      <img src="image/svg/languages/react.svg"> ReactJS • 
+      <img src="image/svg/languages/vue.svg"> VueJS • 
+      <img src="image/svg/languages/tailwind.svg"> Tailwind
+    <br><b>Backend:</b><br>
+      <img src="image/svg/languages/nginx.svg"> Nginx • 
+      <img src="image/svg/languages/node.svg"> HTML • 
+      <img src="image/svg/languages/express.svg"> Express
+    <br><b>Database:</b><br>
+      <img src="image/svg/languages/mysql.svg"> MySQL • 
+      <img src="image/svg/languages/postgresql.svg"> PostgreSQL • 
+      <img src="image/svg/languages/mongo.svg"> Mongo
+    <br><b>Software:</b><br>
+      <img src="image/svg/languages/ps.svg"> Photoshop • 
+      <img src="image/svg/languages/pr.svg"> Premier • 
+      <img src="image/svg/languages/ae.svg"> After Effect
+      <br><div class="block_main"></div>
+      <img src="image/svg/languages/mw.svg"> Word • 
+      <img src="image/svg/languages/me.svg"> Excel • 
+      <img src="image/svg/languages/mp.svg"> Power Point
+    <br><b>Other:</b><br>
+      <img src="image/svg/languages/git.svg"> Git •
+      <img src="image/svg/languages/figma.svg"> Figma • 
+      <img src="image/svg/languages/canva.svg"> Canva  
   </ul>
   <div style="display: inline-block;"></div>
 
@@ -51,66 +68,26 @@
 
   <div style="display: inline-block;"></div>
 
-  <div align="center">
-    <img class="tag" src="image/panels/mystats.png" width="500">
+  <div class="center_main">
+    <img class="tag2" src="image/panels/my_stats.png" width="500">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div align="center">
-    <img class="logo_right" width="31.8%" src="image/panels/kitagawa.png" align="right">
-  </div>
-
-  <div align="left">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuisme&theme=omni&hide=batchfile&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <div style="display: inline-block;"></div>
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=azuisme&theme=omni&show_icons=true&include_all_commits=true&count_private=true&hide_border=false">
-    <div style="display: inline-block;"></div>
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=azuisme&show_icons=true&hide_border=false&theme=omni">
+  <div class="right_main">
+    <img class="logo_right" src="image/panels/lambo.png" align="right">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div align="center">
-    <img src="https://github-trophies.vercel.app/?username=azuisme&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
+  <div class="left_main">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=urmine03&show_icons=true&hide_border=false&theme=omni">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <!-- <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=azuisme&theme=react-dark&bg_color=20232a&hide_border=false"> 
-  </div> -->
-
-  <div style="display: inline-block;"></div>
-
-  <img class="line" src="image/gif/line.gif">
-
-  <div style="display: inline-block;"></div>
-
-  <div align="center">
-    <img class="tag" src="image/panels/socialmedia.png" width="500">
-  </div>
-
-  <div style="display: inline-block;"></div>
-
-  <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/1408265571933618267?idleMessage=i%20luv%20her%20%E2%9D%A4%EF%B8%8F&theme=dark&showDisplayName=true&hideDiscrim=true" align="right" align="right" /></a>
-  </div>
-
-  <div align="left">
-    <a href="https://www.youtube.com/@AzuFPS?sub_confirmation=1" target="_blank">
-      <img width="20%" src="https://img.shields.io/badge/azu-ff3300?style=for-the-badge&logo=youtube&logoColor=white">
-    </a>
-    <a href="https://discord.com/users/1408265571933618267" target="_blank">
-      <img width="20%" src="https://img.shields.io/badge/azu-6699ff?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-    <br>
-    <a href="https://github.com/azuisme" target="_blank">
-      <img width="20%" src="https://img.shields.io/badge/azu-000000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://tracker.gg/valorant/profile/riot/Azu%23prx/overview?platform=pc&playlist=competitive&season=5adc33fa-4f30-2899-f131-6fba64c5dd3a" target="_blank">
-      <img width="20%" src="https://img.shields.io/badge/azu-e32f22?style=for-the-badge&logo=valorant&logoColor=white">
-    </a>
+  <div class="left_main">
+    <img src="https://github-trophies.vercel.app/?username=urmine03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
   </div>
 
   <div style="display: inline-block;"></div>
@@ -119,15 +96,55 @@
 
   <div style="display: inline-block;"></div>
 
-  <div align="center">
-    <img class="tag" src="image/panels/thanksforreading.png" width="500">
+  <div class="center_main">
+    <img class="tag" src="image/panels/my_socials.png" width="500">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div align="center">
+  <div class="right_main">
+    <img src="https://lanyard.cnrad.dev/api/882173065163849739?borderRadius=10px&theme=dark&idleMessage=i%20luv%20her%20%E2%9D%A4%EF%B8%8F&showDisplayName=true" align="right" align="right" /></a>
+  </div>
+
+  <div style="display: inline-block;"></div>
+
+  <div class="center_main">
+    <a href="https://www.facebook.com/urmine2003/" target="_blank">
+      <img width="150px" src="https://img.shields.io/badge/URmine-0073ff?style=for-the-badge&logo=facebook&logoColor=white">
+    </a>
+  </div>
+
+  <div style="display: inline-block;"></div>
+
+  <div class="center_main">
+    <a href="https://discord.com/users/882173065163849739" target="_blank">
+      <img width="150px" src="https://img.shields.io/badge/URmine-510db8?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+  </div>
+
+  <div style="display: inline-block;"></div>
+
+  <div class="center_main">
+    <a href="https://github.com/urmine03" target="_blank">
+      <img width="150px" src="https://img.shields.io/badge/URmine-000000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
+
+  <div style="display: inline-block;"></div>
+
+  <img class="line" src="image/gif/line.gif">
+
+  <div style="display: inline-block;"></div>
+
+  <div class="center_main">
+    <img class="tag" src="image/panels/thanks_all.png" width="500">
+  </div>
+
+  <div style="display: inline-block;"></div>
+
+  <div class="center_main">
     <a href="https://count.getloli.com">
-      <img src="https://count.getloli.com/get/@azuisme?theme=asoul"/>
+      <img src="https://count.getloli.com/get/@urmine03?theme=asoul"/>
     </a>
   </div>
 </body>
