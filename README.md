@@ -84,7 +84,7 @@
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=urmine03&show_icons=true&hide_border=false&theme=omni">
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div><br>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <img width="60%" src="https://github-trophies.vercel.app/?username=urmine03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
@@ -106,7 +106,7 @@
     <img width="400px" align="right" src="https://lanyard.cnrad.dev/api/882173065163849739?borderRadius=10px&theme=dark&idleMessage=i%20luv%20her%20%E2%9D%A4%EF%B8%8F&showDisplayName=true"/></a>
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://www.facebook.com/urmine2003/" target="_blank">
