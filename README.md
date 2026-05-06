@@ -50,13 +50,13 @@
       <img src="image/svg/languages/postgresql.svg"> PostgreSQL • 
       <img src="image/svg/languages/mongo.svg"> Mongo
     <br><b>Software:</b><br>
-      <img src="image/svg/languages/ps.svg"> Photoshop • 
-      <img src="image/svg/languages/pr.svg"> Premier • 
-      <img src="image/svg/languages/ae.svg"> After Effect
-      <br>
       <img src="image/svg/languages/mw.svg"> Word • 
       <img src="image/svg/languages/me.svg"> Excel • 
       <img src="image/svg/languages/mp.svg"> Power Point
+      <br>
+      <img src="image/svg/languages/ps.svg"> Photoshop • 
+      <img src="image/svg/languages/pr.svg"> Premier • 
+      <img src="image/svg/languages/ae.svg"> After Effect
     <br><b>Other:</b><br>
       <img src="image/svg/languages/git.svg"> Git •
       <img src="image/svg/languages/figma.svg"> Figma • 
