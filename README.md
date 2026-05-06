@@ -100,7 +100,7 @@
     <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="260px" align="center;" src="image/panels/my_socials.png">
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div>
 
   <div style="justify-content: right; align-items: right;">
     <img width="400px" align="right" src="https://lanyard.cnrad.dev/api/882173065163849739?borderRadius=10px&theme=dark&idleMessage=i%20luv%20her%20%E2%9D%A4%EF%B8%8F&showDisplayName=true"/></a>
@@ -114,7 +114,7 @@
     </a>
   </div>
 
-  <br><div style="display: inline-block;"></div>
+  <br>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://discord.com/users/882173065163849739" target="_blank">
@@ -122,7 +122,7 @@
     </a>
   </div>
 
-  <br><div style="display: inline-block;"></div>
+  <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://github.com/urmine03" target="_blank">
