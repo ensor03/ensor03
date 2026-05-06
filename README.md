@@ -142,7 +142,7 @@
 
   <div style="display: inline-block;"></div>
 
-  <div align="center;">
+  <div align="center">
     <a href="https://count.getloli.com">
       <img src="https://count.getloli.com/get/@urmine03?theme=asoul" align="center;"/>
     </a>
