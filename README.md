@@ -37,7 +37,7 @@
     <br><b>Frontend:</b><br>
       <img src="image/svg/languages/html.svg"> HTML • 
       <img src="image/svg/languages/css.svg"> CSS
-      <br><div style="display: inline-block;"></div>
+      <br>
       <img src="image/svg/languages/react.svg"> ReactJS • 
       <img src="image/svg/languages/vue.svg"> VueJS • 
       <img src="image/svg/languages/tailwind.svg"> Tailwind
@@ -53,7 +53,7 @@
       <img src="image/svg/languages/ps.svg"> Photoshop • 
       <img src="image/svg/languages/pr.svg"> Premier • 
       <img src="image/svg/languages/ae.svg"> After Effect
-      <br><div style="display: inline-block;"></div>
+      <br>
       <img src="image/svg/languages/mw.svg"> Word • 
       <img src="image/svg/languages/me.svg"> Excel • 
       <img src="image/svg/languages/mp.svg"> Power Point
