@@ -8,7 +8,7 @@
   <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="220px" align="center;" src="image/panels/about_me.png">
+    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="250px" align="center;" src="image/panels/about_me.png">
   </div>
 
   <div style="display: inline-block;"></div>
@@ -69,7 +69,7 @@
   <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="260px" align="center;" src="image/panels/my_stats.png">
+    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="300px" align="center;" src="image/panels/my_stats.png">
   </div>
 
   <div style="display: inline-block;"></div>
@@ -97,7 +97,7 @@
   <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="220px" align="center;" src="image/panels/my_socials.png">
+    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="260px" align="center;" src="image/panels/my_socials.png">
   </div>
 
   <div style="display: inline-block;"></div>
@@ -137,7 +137,7 @@
   <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="220px" align="center;" src="image/panels/thanks_all.png">
+    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="300px" align="center;" src="image/panels/thanks_all.png">
   </div>
 
   <div style="display: inline-block;"></div>
