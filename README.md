@@ -144,7 +144,7 @@
 
   <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://count.getloli.com">
-      <img src="https://count.getloli.com/get/@urmine03?theme=asoul"/>
+      <img align="center;" src="https://count.getloli.com/get/@urmine03?theme=asoul"/>
     </a>
   </div>
 </body>
