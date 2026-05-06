@@ -7,26 +7,14 @@
 
   <div style="display: inline-block;"></div>
 
-  <div style="display: flex;
-  justify-content: center;
-  align-items: center;">
-    <img style="pointer-events: none;
-  border-radius: 2rem;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 600px;
-  height: 200px;" src="image/panels/about_me.png">
+  <div style="display: flex;justify-content: center;align-items: center;">
+    <img style="pointer-events: none;border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;width: 600pxheight: 200px;" src="image/panels/about_me.png">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div style="align-items: right;
-  justify-content: right;">
-    <img style="width: 300px;
-  height: 300px;
-  border-radius: 50%;
-  object-fit: cover;" src="image/panels/cat.png" align="right">
+  <div style="align-items: right;justify-content: right;">
+    <img style="width: 300px;height: 300px;border-radius: 50%;object-fit: cover;" src="image/panels/cat.png" align="right">
   </div>
 
   <p>
