@@ -2,80 +2,31 @@
   <link rel="stylesheet" href="css/index.css">
 </head> -->
 
-<style>
-  .tag {
-  pointer-events: none;
-  border-radius: 2rem;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 600px;
-  height: 200px;
-}
-
-.tag2 {
-  pointer-events: none;
-  border-radius: 2rem;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 600px;
-  height: 300px;
-}
-
-
-.logo_main {
-  width: 300px;
-  height: 300px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-.left_main {
-  display: flex;
-  justify-content: left;
-  align-items: left;
-}
-
-.center_main {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.right_main {
-  /* display: flex; */
-  align-items: right;
-  justify-content: right;
-}
-
-.logo_right {
-  width: 230px;
-  height: 430px;
-  border-radius: 0 20px 0 0;
-  align-items: right;
-  overflow: hidden;
-  
-}
-
-.block_main {
-  display: inline-block;
-}
-</style>
-
 <body>
   <img class="line" src="image/gif/line.gif">
 
-  <div class="block_main"></div>
+  <div style="display: inline-block;"></div>
 
-  <div class="center_main">
-    <img class="tag" src="image/panels/about_me.png">
+  <div style="display: flex;
+  justify-content: center;
+  align-items: center;">
+    <img style="pointer-events: none;
+  border-radius: 2rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 600px;
+  height: 200px;" src="image/panels/about_me.png">
   </div>
 
-  <div class="block_main"></div>
+  <div style="display: inline-block;"></div>
 
-  <div class="right_main">
-    <img class="logo_main" src="image/panels/cat.png" align="right">
+  <div style="align-items: right;
+  justify-content: right;">
+    <img style="width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;" src="image/panels/cat.png" align="right">
   </div>
 
   <p>
@@ -98,7 +49,7 @@
     <br><b>Frontend:</b><br>
       <img src="image/svg/languages/html.svg"> HTML • 
       <img src="image/svg/languages/css.svg"> CSS
-      <br><div class="block_main"></div>
+      <br><div style="display: inline-block;"></div>
       <img src="image/svg/languages/react.svg"> ReactJS • 
       <img src="image/svg/languages/vue.svg"> VueJS • 
       <img src="image/svg/languages/tailwind.svg"> Tailwind
@@ -114,7 +65,7 @@
       <img src="image/svg/languages/ps.svg"> Photoshop • 
       <img src="image/svg/languages/pr.svg"> Premier • 
       <img src="image/svg/languages/ae.svg"> After Effect
-      <br><div class="block_main"></div>
+      <br><div style="display: inline-block;"></div>
       <img src="image/svg/languages/mw.svg"> Word • 
       <img src="image/svg/languages/me.svg"> Excel • 
       <img src="image/svg/languages/mp.svg"> Power Point
@@ -129,25 +80,42 @@
 
   <div style="display: inline-block;"></div>
 
-  <div class="center_main">
-    <img class="tag2" src="image/panels/my_stats.png" width="500">
+  <div style="display: flex;
+  justify-content: center;
+  align-items: center;">
+    <img style="pointer-events: none;
+  border-radius: 2rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 600px;
+  height: 300px;" src="image/panels/my_stats.png" width="500">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div class="right_main">
-    <img class="logo_right" src="image/panels/lambo.png" align="right">
+  <div style="align-items: right;
+  justify-content: right;">
+    <img style="width: 230px;
+  height: 430px;
+  border-radius: 0 20px 0 0;
+  align-items: right;
+  overflow: hidden;" src="image/panels/lambo.png" align="right">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div class="left_main">
+  <div style="display: flex;
+  justify-content: left;
+  align-items: left;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=urmine03&show_icons=true&hide_border=false&theme=omni">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div class="left_main">
+  <div style="display: flex;
+  justify-content: left;
+  align-items: left;">
     <img src="https://github-trophies.vercel.app/?username=urmine03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
   </div>
 
@@ -157,19 +125,30 @@
 
   <div style="display: inline-block;"></div>
 
-  <div class="center_main">
-    <img class="tag" src="image/panels/my_socials.png" width="500">
+  <div style="display: flex;
+  justify-content: center;
+  align-items: center;">
+    <img style="pointer-events: none;
+  border-radius: 2rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 600px;
+  height: 300px;" src="image/panels/my_socials.png" width="500">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div class="right_main">
+  <div style="align-items: right;
+  justify-content: right;">
     <img src="https://lanyard.cnrad.dev/api/882173065163849739?borderRadius=10px&theme=dark&idleMessage=i%20luv%20her%20%E2%9D%A4%EF%B8%8F&showDisplayName=true" align="right" align="right" /></a>
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div class="center_main">
+  <div style="display: flex;
+  justify-content: center;
+  align-items: center;">
     <a href="https://www.facebook.com/urmine2003/" target="_blank">
       <img width="150px" src="https://img.shields.io/badge/URmine-0073ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
@@ -177,7 +156,9 @@
 
   <div style="display: inline-block;"></div>
 
-  <div class="center_main">
+  <div style="display: flex;
+  justify-content: center;
+  align-items: center;">
     <a href="https://discord.com/users/882173065163849739" target="_blank">
       <img width="150px" src="https://img.shields.io/badge/URmine-510db8?style=for-the-badge&logo=discord&logoColor=white">
     </a>
@@ -185,7 +166,9 @@
 
   <div style="display: inline-block;"></div>
 
-  <div class="center_main">
+  <div style="display: flex;
+  justify-content: center;
+  align-items: center;">
     <a href="https://github.com/urmine03" target="_blank">
       <img width="150px" src="https://img.shields.io/badge/URmine-000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
@@ -197,13 +180,23 @@
 
   <div style="display: inline-block;"></div>
 
-  <div class="center_main">
-    <img class="tag" src="image/panels/thanks_all.png" width="500">
+  <div style="display: flex;
+  justify-content: center;
+  align-items: center;">
+    <img style="pointer-events: none;
+  border-radius: 2rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 600px;
+  height: 300px;" src="image/panels/thanks_all.png" width="500">
   </div>
 
   <div style="display: inline-block;"></div>
 
-  <div class="center_main">
+  <div style="display: flex;
+  justify-content: center;
+  align-items: center;">
     <a href="https://count.getloli.com">
       <img src="https://count.getloli.com/get/@urmine03?theme=asoul"/>
     </a>
