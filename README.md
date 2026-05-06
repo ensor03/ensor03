@@ -8,7 +8,7 @@
   <div style="display: inline-block;"></div>
 
   <div style="display: flex;justify-content: center;align-items: center;">
-    <img style="pointer-events: none;border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;width: 600pxheight: 200px;" src="image/panels/about_me.png">
+    <img style="pointer-events: none;border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;width: 200px height: 100px;" src="image/panels/about_me.png">
   </div>
 
   <div style="display: inline-block;"></div>
@@ -76,8 +76,8 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  width: 600px;
-  height: 300px;" src="image/panels/my_stats.png" width="500">
+  width: 400px;
+  height: 200px;" src="image/panels/my_stats.png" width="500">
   </div>
 
   <div style="display: inline-block;"></div>
