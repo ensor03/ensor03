@@ -130,7 +130,7 @@
     </a>
   </div>
 
-  <br><div style="display: inline-block;"></div><br>
+  <br><div style="display: inline-block;"></div>
 
   <img height="10px" src="image/gif/line.gif">
 
