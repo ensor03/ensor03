@@ -8,12 +8,12 @@
   <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="250px" align="center;" src="image/panels/about_me.png">
+    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="250px" align="center" src="image/panels/about_me.png">
   </div>
 
   <br><div style="display: inline-block;"></div><br>
 
-  <div align="right;">
+  <div align="right">
     <img style="border-radius: 50%;" width="400px" height="400px" src="image/panels/cat.png" align="right">
   </div>
 
@@ -69,7 +69,7 @@
   <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="350px" align="center;" src="image/panels/my_stats.png">
+    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="350px" align="center" src="image/panels/my_stats.png">
   </div>
 
   <div style="display: inline-block;"></div>
@@ -97,7 +97,7 @@
   <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="260px" align="center;" src="image/panels/my_socials.png">
+    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="260px" align="center" src="image/panels/my_socials.png">
   </div>
 
   <br><div style="display: inline-block;"></div>
@@ -137,14 +137,14 @@
   <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="300px" align="center;" src="image/panels/thanks_all.png">
+    <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="300px" align="center" src="image/panels/thanks_all.png">
   </div>
 
   <div style="display: inline-block;"></div>
 
   <div align="center">
     <a href="https://count.getloli.com">
-      <img src="https://count.getloli.com/get/@urmine03?theme=asoul" align="center;"/>
+      <img src="https://count.getloli.com/get/@urmine03?theme=asoul" align="center"/>
     </a>
   </div>
 </body>
