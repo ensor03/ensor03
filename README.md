@@ -72,7 +72,7 @@
     <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="350px" align="center" src="image/panels/my_stats.png">
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div><br>
 
   <div style="justify-content: right; align-items: right;">
     <img style="border-radius: 0 20px 0 0; align-items: right; overflow: hidden;" width="35%" height="500px" align="right" src="image/panels/lambo.png">
@@ -90,7 +90,7 @@
     <img width="60%" src="https://github-trophies.vercel.app/?username=urmine03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div><br>
 
   <img height="10px" src="image/gif/line.gif">
 
@@ -140,7 +140,7 @@
     <img style="pointer-events: none; border-radius: 2rem;background-position: center;background-size: cover;background-repeat: no-repeat;" width="100%" height="300px" align="center" src="image/panels/thanks_all.png">
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div><br>
 
   <div align="center">
     <a href="https://count.getloli.com">
