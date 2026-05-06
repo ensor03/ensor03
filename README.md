@@ -75,7 +75,7 @@
   <div style="display: inline-block;"></div>
 
   <div style="justify-content: right; align-items: right;">
-    <img style="border-radius: 0 20px 0 0; align-items: right; overflow: hidden;" width="35%" height="300px" align="right" src="image/panels/lambo.png">
+    <img style="border-radius: 0 20px 0 0; align-items: right; overflow: hidden;" width="35%" height="500px" align="right" src="image/panels/lambo.png">
   </div>
 
   <div style="display: inline-block;"></div>
