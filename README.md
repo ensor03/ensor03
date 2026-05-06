@@ -110,7 +110,7 @@
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://www.facebook.com/urmine2003/" target="_blank">
-      <img width="150px" src="https://img.shields.io/badge/URmine-0073ff?style=for-the-badge&logo=facebook&logoColor=white">
+      <img width="200px" src="https://img.shields.io/badge/URmine-0073ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
   </div>
 
@@ -118,7 +118,7 @@
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://discord.com/users/882173065163849739" target="_blank">
-      <img width="150px" src="https://img.shields.io/badge/URmine-510db8?style=for-the-badge&logo=discord&logoColor=white">
+      <img width="200px" src="https://img.shields.io/badge/URmine-510db8?style=for-the-badge&logo=discord&logoColor=white">
     </a>
   </div>
 
@@ -126,11 +126,11 @@
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://github.com/urmine03" target="_blank">
-      <img width="150px" src="https://img.shields.io/badge/URmine-000000?style=for-the-badge&logo=github&logoColor=white">
+      <img width="200px" src="https://img.shields.io/badge/URmine-000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
 
-  <div style="display: inline-block;"></div><br>
+  <br><div style="display: inline-block;"></div><br>
 
   <img height="10px" src="image/gif/line.gif">
 
