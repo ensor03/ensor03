@@ -114,7 +114,7 @@
     </a>
   </div>
 
-  <br>
+  <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://discord.com/users/882173065163849739" target="_blank">
@@ -122,7 +122,7 @@
     </a>
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://github.com/urmine03" target="_blank">
