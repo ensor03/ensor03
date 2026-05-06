@@ -78,13 +78,13 @@
     <img style="border-radius: 0 20px 0 0; align-items: right; overflow: hidden;" width="35%" height="500px" align="right" src="image/panels/lambo.png">
   </div>
 
-  <div style="display: inline-block;"></div>
+  <br><div style="display: inline-block;"></div><br>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=urmine03&show_icons=true&hide_border=false&theme=omni">
   </div>
 
-  <br><div style="display: inline-block;"></div><br>
+  <div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <img width="60%" src="https://github-trophies.vercel.app/?username=urmine03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
