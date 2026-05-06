@@ -142,9 +142,9 @@
 
   <div style="display: inline-block;"></div>
 
-  <div style="display: flex; justify-content: center; align-items: center;">
+  <div align="center;">
     <a href="https://count.getloli.com">
-      <img style="display: flex; justify-content: center; align-items: center;" src="https://count.getloli.com/get/@urmine03?theme=asoul" align="center;"/>
+      <img src="https://count.getloli.com/get/@urmine03?theme=asoul" align="center;"/>
     </a>
   </div>
 </body>
