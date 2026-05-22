@@ -103,7 +103,7 @@
   <br><div style="display: inline-block;"></div>
 
   <div style="justify-content: right; align-items: right;">
-    <img width="600px" align="right" src="https://lanyard.cnrad.dev/api/882173065163849739?borderRadius=10px&theme=dark&idleMessage=%C4%90%E1%BB%A3i%20anh%20nh%C3%A9%20%E2%9D%A4%EF%B8%8F&showDisplayName=true"/></a>
+    <img width="600px" align="right" src="https://lanyard.cnrad.dev/api/882173065163849739?borderRadius=10px&theme=dark&idleMessage=Th%C6%B0%C6%A1ng%20em%20r%E1%BA%A5t%20nhi%E1%BB%81u%20%E2%9D%A4%EF%B8%8F&showDisplayName=true"/></a>
   </div>
 
   <br><div style="display: inline-block;"></div>
