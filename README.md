@@ -30,56 +30,52 @@
   - 🚀 Interested in Web Development, Discord Bots, UI/UX Design, and Automation
   - 🎵 Music lover
   - 🎯 Goal: Build useful products and grow as a software engineer
-  <!-- - 👋 Hi, I'm a developer from Vietnam
-  - Gender: 👨 Male -->
-  <!-- - Interests: ⚽ Football • 🎮 Gaming • 🎵 Music • 🎥 Movie
-  - Games:
-    - <img src="image/svg/gaming/valorant.svg" width="24"> Valorant
-    - <img src="image/svg/gaming/fifa.svg" width="24"> FO4 -->
-
   </td>
 
-  <td width="60%" valign="top">
-
+  <td width="30%" valign="top">
+  
   ### 💻 Tech Stack
-
   **Languages**  
-  <img src="image/svg/languages/javascript.svg" width="24"> JavaScript •
-  <img src="image/svg/languages/typescript.svg" width="24"> TypeScript •
-  <img src="image/svg/languages/python.svg" width="24"> Python •
-  <img src="image/svg/languages/php.svg" width="24"> PHP
+ -  <img src="image/svg/languages/javascript.svg" width="24"> JavaScript
+ -  <img src="image/svg/languages/typescript.svg" width="24"> TypeScript
+ -  <img src="image/svg/languages/python.svg" width="24"> Python
+ -  <img src="image/svg/languages/php.svg" width="24"> PHP
 
   **Frontend**  
-  <img src="image/svg/languages/html.svg" width="24"> HTML •
-  <img src="image/svg/languages/css.svg" width="24"> CSS •
-  <img src="image/svg/languages/react.svg" width="24"> ReactJS •
-  <img src="image/svg/languages/vue.svg" width="24"> VueJS •
-  <img src="image/svg/languages/tailwind.svg" width="24"> Tailwind
+ -  <img src="image/svg/languages/html.svg" width="24"> HTML
+ -  <img src="image/svg/languages/css.svg" width="24"> CSS
+ -  <img src="image/svg/languages/react.svg" width="24"> ReactJS
+ -  <img src="image/svg/languages/vue.svg" width="24"> VueJS
+ -  <img src="image/svg/languages/tailwind.svg" width="24"> Tailwind
 
   **Backend**  
-  <img src="image/svg/languages/nginx.svg" width="24"> Nginx •
-  <img src="image/svg/languages/node.svg" width="24"> NodeJS •
-  <img src="image/svg/languages/express.svg" width="24"> Express
+ -  <img src="image/svg/languages/nginx.svg" width="24"> Nginx
+ -  <img src="image/svg/languages/node.svg" width="24"> NodeJS
+ -  <img src="image/svg/languages/express.svg" width="24"> Express
+  </td>
 
+  <td width="30%" valign="top">
+
+  ### 💻 Tech Stack
   **Database**  
-  <img src="image/svg/languages/mysql.svg" width="24"> MySQL •
-  <img src="image/svg/languages/postgresql.svg" width="24"> PostgreSQL •
-  <img src="image/svg/languages/mongo.svg" width="24"> MongoDB
+ -  <img src="image/svg/languages/mysql.svg" width="24"> MySQL
+ -  <img src="image/svg/languages/postgresql.svg" width="24"> PostgreSQL
+ -  <img src="image/svg/languages/mongo.svg" width="24"> MongoDB
 
   **Microsoft**  
-  <img src="image/svg/languages/mw.svg" width="24"> Word •
-  <img src="image/svg/languages/me.svg" width="24"> Excel •
-  <img src="image/svg/languages/mp.svg" width="24"> PowerPoint
+ -  <img src="image/svg/languages/mw.svg" width="24"> Word
+ -  <img src="image/svg/languages/me.svg" width="24"> Excel
+ -  <img src="image/svg/languages/mp.svg" width="24"> PowerPoint
 
   **Adobe**  
-  <img src="image/svg/languages/ps.svg" width="24"> Photoshop •
-  <img src="image/svg/languages/pr.svg" width="24"> Premiere Pro •
-  <img src="image/svg/languages/ae.svg" width="24"> After Effects
+ -  <img src="image/svg/languages/ps.svg" width="24"> Photoshop
+ -  <img src="image/svg/languages/pr.svg" width="24"> Premiere Pro
+ -  <img src="image/svg/languages/ae.svg" width="24"> After Effects
 
   **Other**  
-  <img src="image/svg/languages/git.svg" width="24"> Git •
-  <img src="image/svg/languages/figma.svg" width="24"> Figma •
-  <img src="image/svg/languages/canva.svg" width="24"> Canva
+ -  <img src="image/svg/languages/git.svg" width="24"> Git
+ -  <img src="image/svg/languages/figma.svg" width="24"> Figma
+ -  <img src="image/svg/languages/canva.svg" width="24"> Canva
 
   </td>
   </tr>
