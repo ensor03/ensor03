@@ -81,13 +81,13 @@
   <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=urmine03&show_icons=true&hide_border=false&theme=omni">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ensor03&show_icons=true&hide_border=false&theme=omni">
   </div>
 
   <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
-    <img width="60%" src="https://github-trophies.vercel.app/?username=urmine03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
+    <img width="60%" src="https://github-trophies.vercel.app/?username=ensor03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
   </div>
 
   <br><div style="display: inline-block;"></div><br>
@@ -109,8 +109,8 @@
   <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
-    <a href="https://www.facebook.com/urmine2003/" target="_blank">
-      <img width="200px" src="https://img.shields.io/badge/URmine-0073ff?style=for-the-badge&logo=facebook&logoColor=white">
+    <a href="https://www.facebook.com/ensor.vn/" target="_blank">
+      <img width="200px" src="https://img.shields.io/badge/Ensor-0073ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
   </div>
 
@@ -118,15 +118,15 @@
 
   <div style="display: flex; justify-content: left; align-items: left;">
     <a href="https://discord.com/users/882173065163849739" target="_blank">
-      <img width="200px" src="https://img.shields.io/badge/URmine-510db8?style=for-the-badge&logo=discord&logoColor=white">
+      <img width="200px" src="https://img.shields.io/badge/Ensor-510db8?style=for-the-badge&logo=discord&logoColor=white">
     </a>
   </div>
 
   <br><div style="display: inline-block;"></div>
 
   <div style="display: flex; justify-content: left; align-items: left;">
-    <a href="https://github.com/urmine03" target="_blank">
-      <img width="200px" src="https://img.shields.io/badge/URmine-000000?style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://github.com/ensor03" target="_blank">
+      <img width="200px" src="https://img.shields.io/badge/Ensor-000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </div>
 
@@ -144,7 +144,7 @@
 
   <div align="center">
     <a href="https://count.getloli.com">
-      <img src="https://count.getloli.com/get/@urmine03?theme=asoul" align="center"/>
+      <img src="https://count.getloli.com/get/@ensor03?theme=asoul" align="center"/>
     </a>
   </div>
 </body>
