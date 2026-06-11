@@ -13,55 +13,71 @@
 
   <br><div style="display: inline-block;"></div>
 
-  <div align="right">
+  <!-- <div align="right">
     <img style="border-radius: 50%;" width="400px" height="400px" src="image/panels/cat.png" align="right">
-  </div>
+  </div> -->
 
   <p>
     👋 Hi, I'm a developer from Vietnam
   </p>
 
-  <ul>
-    <li>Gender: <img src="image/svg/icon/man.svg" alt="Male"> Male</li>
-    <li>Interests: ⚽ Football • 🎮 Gaming • 🎵 Music • 🎥 Movie</li>
-    <li>Games: 
-      <img src="image/svg/gaming/valorant.svg" alt="Valorant"> Valorant • 
-      <img src="image/svg/gaming/fifa.svg" alt="Fo4"> Fo4
-    </li>
-    <li>💻 Tech Stack:<br>
-    <b>Languages:</b><br>
-      <img src="image/svg/languages/javascript.svg"> Javascript • 
-      <img src="image/svg/languages/typescript.svg"> Typescript • 
-      <img src="image/svg/languages/python.svg"> Python • 
-      <img src="image/svg/languages/php.svg"> php
-    <br><b>Frontend:</b><br>
-      <img src="image/svg/languages/html.svg"> HTML • 
-      <img src="image/svg/languages/css.svg"> CSS
-      <br>
-      <img src="image/svg/languages/react.svg"> ReactJS • 
-      <img src="image/svg/languages/vue.svg"> VueJS • 
-      <img src="image/svg/languages/tailwind.svg"> Tailwind
-    <br><b>Backend:</b><br>
-      <img src="image/svg/languages/nginx.svg"> Nginx • 
-      <img src="image/svg/languages/node.svg"> HTML • 
-      <img src="image/svg/languages/express.svg"> Express
-    <br><b>Database:</b><br>
-      <img src="image/svg/languages/mysql.svg"> MySQL • 
-      <img src="image/svg/languages/postgresql.svg"> PostgreSQL • 
-      <img src="image/svg/languages/mongo.svg"> Mongo
-    <br><b>Software:</b><br>
-      <img src="image/svg/languages/mw.svg"> Word • 
-      <img src="image/svg/languages/me.svg"> Excel • 
-      <img src="image/svg/languages/mp.svg"> Power Point
-      <br>
-      <img src="image/svg/languages/ps.svg"> Photoshop • 
-      <img src="image/svg/languages/pr.svg"> Premier • 
-      <img src="image/svg/languages/ae.svg"> After Effect
-    <br><b>Other:</b><br>
-      <img src="image/svg/languages/git.svg"> Git •
-      <img src="image/svg/languages/figma.svg"> Figma • 
-      <img src="image/svg/languages/canva.svg"> Canva  
-  </ul>
+<table>
+<tr>
+<td width="40%" valign="top">
+
+### 👨 About Me
+
+- Gender: 👨 Male
+- Interests: ⚽ Football • 🎮 Gaming • 🎵 Music • 🎥 Movie
+- Games:
+  - <img src="image/svg/gaming/valorant.svg" width="16"> Valorant
+  - <img src="image/svg/gaming/fifa.svg" width="16"> FO4
+
+</td>
+
+<td width="60%" valign="top">
+
+### 💻 Tech Stack
+
+**Languages**  
+<img src="image/svg/languages/javascript.svg" width="16"> JavaScript •
+<img src="image/svg/languages/typescript.svg" width="16"> TypeScript •
+<img src="image/svg/languages/python.svg" width="16"> Python •
+<img src="image/svg/languages/php.svg" width="16"> PHP
+
+**Frontend**  
+<img src="image/svg/languages/html.svg" width="16"> HTML •
+<img src="image/svg/languages/css.svg" width="16"> CSS •
+<img src="image/svg/languages/react.svg" width="16"> ReactJS •
+<img src="image/svg/languages/vue.svg" width="16"> VueJS •
+<img src="image/svg/languages/tailwind.svg" width="16"> Tailwind
+
+**Backend**  
+<img src="image/svg/languages/nginx.svg" width="16"> Nginx •
+<img src="image/svg/languages/node.svg" width="16"> NodeJS •
+<img src="image/svg/languages/express.svg" width="16"> Express
+
+**Database**  
+<img src="image/svg/languages/mysql.svg" width="16"> MySQL •
+<img src="image/svg/languages/postgresql.svg" width="16"> PostgreSQL •
+<img src="image/svg/languages/mongo.svg" width="16"> MongoDB
+
+**Software**  
+<img src="image/svg/languages/mw.svg" width="16"> Word •
+<img src="image/svg/languages/me.svg" width="16"> Excel •
+<img src="image/svg/languages/mp.svg" width="16"> PowerPoint •
+<img src="image/svg/languages/ps.svg" width="16"> Photoshop •
+<img src="image/svg/languages/pr.svg" width="16"> Premiere Pro •
+<img src="image/svg/languages/ae.svg" width="16"> After Effects
+
+**Other**  
+<img src="image/svg/languages/git.svg" width="16"> Git •
+<img src="image/svg/languages/figma.svg" width="16"> Figma •
+<img src="image/svg/languages/canva.svg" width="16"> Canva
+
+</td>
+</tr>
+</table>
   <div style="display: inline-block;"></div>
 
   <img height="10px" src="image/gif/line.gif">
