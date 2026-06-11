@@ -33,7 +33,7 @@
   </td>
 
   <td width="30%" valign="top">
-  
+
   ### 💻 Tech Stack
   **Languages**  
  -  <img src="image/svg/languages/javascript.svg" width="24"> JavaScript
@@ -76,7 +76,6 @@
  -  <img src="image/svg/languages/git.svg" width="24"> Git
  -  <img src="image/svg/languages/figma.svg" width="24"> Figma
  -  <img src="image/svg/languages/canva.svg" width="24"> Canva
-
   </td>
   </tr>
   </table>
